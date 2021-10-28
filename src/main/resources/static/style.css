@@ -1,0 +1,42 @@
+.titulo{
+    color: rgb(255, 255, 255);
+    font-size: 5em;
+    background-color: black;
+    display: inline;
+    align-content: center;
+    margin:200px;
+    
+}
+.contenido{
+    color: rgb(255, 255, 255);
+    font-size: 2.5em;
+    background-color: black;
+    display: inline;
+    align-content: center;
+    margin:200px;
+    
+    
+}
+
+.p-principal{
+        background-color: black;
+        display: inline;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        margin: 700px;
+        font-size: 3em;
+    
+}
+
+.p-secundario{
+    background-color: black;
+    display: inline;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    font-size: 1.5em;
+
+}
+
+
+
